@@ -82,7 +82,181 @@ Definição:
 Uma ramificação do projeto principal usada
 para desenvolver novas funcionalidades ou
 realizar testes sem alterar a versão principal.
+____________________________________________________________________________________________________________
+
+
+# =====================================================
+#            EXEMPLO DE ALGORITMO DO DIA A DIA
+# =====================================================
+
+
+╔════════════════════════════════════════════════════╗
+║              EXEMPLO: FAZER UMA XÍCARA DE CAFÉ     ║
+╚════════════════════════════════════════════════════╝
+
+
+-------------------- OBJETIVO -----------------------
+
+Preparar uma xícara de café utilizando uma sequência
+lógica e organizada de passos.
+
+
+---------------- ENTRADA DE DADOS -------------------
+
+- Água
+- Pó de café
+- Filtro de papel
+- Suporte do filtro
+- Xícara
+- Fonte de calor (fogão ou cafeteira)
+
+
+---------------- PROCESSAMENTO ----------------------
+
+Passo 1 -> Colocar água em uma chaleira ou recipiente.
+
+Passo 2 -> Aquecer a água até atingir o ponto de fervura.
+
+Passo 3 -> Posicionar o filtro de papel no suporte.
+
+Passo 4 -> Adicionar a quantidade desejada de pó de café
+           dentro do filtro.
+
+Passo 5 -> Despejar lentamente a água quente sobre o
+           pó de café.
+
+Passo 6 -> Aguardar o café passar pelo filtro.
+
+Passo 7 -> Servir o café na xícara.
+
+
+------------------ SAÍDA DE DADOS -------------------
+
+Resultado final:
+Uma xícara de café pronta para consumo.
+
+
+=====================================================
+
+Observação:
+Esse exemplo representa um algoritmo do cotidiano,
+pois segue uma sequência lógica de instruções
+para atingir um objetivo específico.
 
 Analogia:
 Como criar uma estrada alternativa ligada à
 estrada principal para testar novos caminhos.
+
+
+
+___________________________________________________________________
+
+
+
+# =====================================================
+#               QUESTIONÁRIO - GIT
+# =====================================================
+
+
++----------------------------------------------------+
+| 1 - QUAL É A PRINCIPAL FUNÇÃO DO GIT EM UM PROJETO |
+|     DE SOFTWARE?                                   |
++----------------------------------------------------+
+
+a) Armazenar apenas imagens do projeto  
+b) Controlar versões e histórico de alterações dos arquivos  
+c) Executar códigos automaticamente  
+d) Criar interfaces gráficas  
+
+> Resposta correta:
+-> b) Controlar versões e histórico de alterações dos arquivos
+
+
+======================================================
+
+
++----------------------------------------------------+
+| 2 - QUAL A DIFERENÇA ENTRE UM REPOSITÓRIO LOCAL E  |
+|     UM REPOSITÓRIO REMOTO?                         |
++----------------------------------------------------+
+
+a) O local fica no computador do desenvolvedor e o remoto fica na internet  
+b) O remoto só armazena imagens  
+c) O local serve apenas para backup  
+d) Não existe diferença entre eles  
+
+> Resposta correta:
+-> a) O local fica no computador do desenvolvedor e o remoto fica na internet
+
+
+======================================================
+
+
++----------------------------------------------------+
+| 3 - O QUE ACONTECE QUANDO FAZEMOS UM COMMIT NO GIT?|
++----------------------------------------------------+
+
+a) O projeto é enviado automaticamente para o GitHub  
+b) Uma alteração é registrada no histórico do repositório local  
+c) Todos os arquivos são apagados  
+d) O repositório é duplicado  
+
+> Resposta correta:
+-> b) Uma alteração é registrada no histórico do repositório local
+
+
+======================================================
+
+
++----------------------------------------------------+
+| 4 - EM UM FLUXO DE TRABALHO COMUM COM GIT, QUAL    |
+|     SEQUÊNCIA ESTÁ CORRETA?                        |
++----------------------------------------------------+
+
+a) Push → Commit → Add  
+b) Commit → Push → Add  
+c) Add → Commit → Push  
+d) Pull → Push → Add  
+
+> Resposta correta:
+-> c) Add → Commit → Push
+
+
+======================================================
+
+
++----------------------------------------------------+
+| 5 - POR QUE AS BRANCHES SÃO IMPORTANTES NO         |
+|     DESENVOLVIMENTO DE SOFTWARE?                   |
++----------------------------------------------------+
+
+a) Para excluir arquivos automaticamente  
+b) Para permitir que várias funcionalidades sejam desenvolvidas separadamente sem afetar a versão principal  
+c) Para aumentar o tamanho do projeto  
+d) Para substituir o repositório  
+
+> Resposta correta:
+-> b) Permitir que novas funcionalidades sejam desenvolvidas separadamente
+   sem afetar a versão principal do projeto.
+
+======================================================
+
+
+_______________________________________________________________________________
+
+
+
+
+  ==================================================
+  #            5 PALAVRAS-CHAVE DA AULA           #
+  ==================================================
+
+1 - Algoritmo: sequência lógica e finita de passos utilizada para resolver um problema ou executar uma tarefa de forma organizada.
+
+2 - Lógica de Programação: base do desenvolvimento de software, responsável por estruturar o raciocínio necessário para criar soluções computacionais.
+
+3 - Hardware: conjunto de componentes físicos do computador, como processador, memória, disco rígido e placa-mãe, responsáveis pela execução das operações.
+
+4 - Software: parte lógica do computador composta por programas e sistemas que permitem ao usuário executar diferentes tarefas.
+
+5 - GitHub: plataforma online utilizada por desenvolvedores para armazenar, versionar e compartilhar projetos de programação.
